@@ -1,5 +1,5 @@
-# wordpress-functions-and-scripts
-Repository of small functions and scripts for themes, plugins or wordpress core.
+# Wordpress Hooks
+Repository of small functions and scripts for themes, plugins or wordpress core, using action and filter hooks.
 
 ## Action and Filter Hooks
 List of action and filter hooks used in this repository.
