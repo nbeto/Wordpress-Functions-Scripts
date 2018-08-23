@@ -1,8 +1,8 @@
 <?php
 
-/*
- * Change the "Free" price notice to "Price On Request".
- */
+//
+// Change the "Free" price notice to "Price On Request".
+//
 add_filter( 'woocommerce_get_price_html', 'nb_wc_get_price_html', 10, 2 );
 function nb_wc_get_price_html( $price, $product ) {
 	if ( $product->get_price() == 0 ) {
@@ -15,3 +15,5 @@ function nb_wc_get_price_html( $price, $product ) {
 	}
 	return $price;
 }
+
+?>
