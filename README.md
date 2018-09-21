@@ -6,6 +6,7 @@ List of action and filter hooks used in this repository.
 
 ### Woocommerce Action Hooks
 - woocommerce_thankyou
+- woocommerce_cart_calculate_fees
 
 ### Woocommerce Filter Hooks
 - woocommerce_checkout_fields
