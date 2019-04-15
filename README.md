@@ -11,3 +11,4 @@ List of action and filter hooks used in this repository.
 ### Woocommerce Filter Hooks
 - woocommerce_checkout_fields
 - woocommerce_get_price_html
+- woocommerce_product_get_image
